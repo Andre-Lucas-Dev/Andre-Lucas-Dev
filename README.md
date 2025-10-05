@@ -1,4 +1,4 @@
-# 🍕 Sistema de Gerenciamento de Pizzaria
+#  Sistema de Gerenciamento de Pizzaria
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
@@ -90,24 +90,24 @@ php artisan serve
 
 ## Funcionalidades Principais
 
-### 🔐 Autenticação
+###  Autenticação
 - Registro de novos usuários
 - Login com JWT
 - Logout seguro
 - Verificação de perfil
 
-### 👥 Gerenciamento de Usuários
+###  Gerenciamento de Usuários
 - CRUD completo de usuários
 - Diferenciação entre clientes e funcionários
 - Validação de dados e segurança
 
-### 🍕 Gerenciamento de Pizzas
+###  Gerenciamento de Pizzas
 - Cadastro exclusivo para funcionários
 - Controle de ingredientes e preços
 - Diferentes tamanhos disponíveis
 - Sistema de ativação/desativação
 
-### 📦 Sistema de Pedidos
+###  Sistema de Pedidos
 - Criação de pedidos por clientes
 - Adição de ingredientes extras (R$ 3,00 cada)
 - Cálculo automático do valor total
@@ -130,18 +130,6 @@ Documentação completa disponível nos arquivos:
 - `EXEMPLOS_PRATICOS.md` - Casos de uso reais
 - `COMANDOS_RAPIDOS.sh` - Setup rápido
 
-## Agradecimentos
-
-Agradecemos ao framework Laravel e toda sua comunidade por tornar o desenvolvimento web uma experiência prazerosa e produtiva. 
-
-Agradecimento especial aos seguintes parceiros premium do Laravel:
-
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
 
 ## Contribuindo
 
