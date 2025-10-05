@@ -1,4 +1,4 @@
-#  Sistema de Gerenciamento de Pizzaria
+#  <p align="center"> Sistema de Gerenciamento de Pizzaria </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
@@ -149,4 +149,4 @@ Este projeto é um software de código aberto licenciado sob a [licença MIT](ht
 
 ---
 
-**Desenvolvido com ❤️ usando Laravel e princípios SOLID**
+**Desenvolvido usando Laravel e princípios SOLID**
