@@ -1,152 +1,48 @@
-#  <p align="center"> Sistema de Gerenciamento de Pizzaria </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
-</p>
+<p align="center"><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## Sobre o Projeto
-
-Este é um sistema completo de gerenciamento para pizzarias desenvolvido com Laravel, aplicando os **princípios SOLID** e boas práticas de programação. O projeto foi desenvolvido com foco em arquitetura limpa, separação de responsabilidades e código de alta qualidade.
-
-O sistema oferece funcionalidades essenciais para o gerenciamento de uma pizzaria moderna, incluindo:
-
-- [Sistema de autenticação JWT seguro](https://jwt.io)
-- [Gerenciamento completo de usuários (clientes e funcionários)](https://laravel.com/docs/authentication)
-- [CRUD de pizzas com controle de ingredientes e preços](https://laravel.com/docs/eloquent)
-- [Sistema de pedidos com cálculo automático de valores](https://laravel.com/docs/eloquent-relationships)
-- [Controle de permissões baseado em tipos de usuário](https://laravel.com/docs/authorization)
-- [Arquitetura em camadas seguindo SOLID](https://en.wikipedia.org/wiki/SOLID)
-
-O projeto foi desenvolvido pensando em escalabilidade, manutenibilidade e facilidade de extensão para futuras funcionalidades.
-
-## Tecnologias Utilizadas
-
-Este sistema foi construído utilizando as melhores tecnologias e práticas do ecossistema PHP:
-
-- **Laravel 11.x** - Framework PHP moderno e elegante
-- **JWT Auth** - Autenticação segura via tokens
-- **MySQL** - Banco de dados relacional
-- **Eloquent ORM** - Mapeamento objeto-relacional intuitivo
-- **Repository Pattern** - Abstração da camada de dados
-- **Service Layer** - Centralização das regras de negócio
-
-Se você deseja aprender mais sobre as tecnologias utilizadas, confira a [documentação oficial do Laravel](https://laravel.com/docs) que contém tutoriais completos e exemplos práticos.
-
-Para quem prefere vídeo-aulas, o [Laracasts](https://laracasts.com) oferece milhares de tutoriais sobre Laravel, PHP moderno, testes automatizados e muito mais.
-
-## Arquitetura do Sistema
-
-O projeto segue uma arquitetura em camadas bem definida:
-
-```
-Rotas → Controllers → Services → Repositories → Models → Database
-```
-
-- **Rotas**: Apenas definem os endpoints da API
-- **Controllers**: Recebem requisições e chamam os services apropriados
-- **Services**: Contêm toda a lógica de negócio e regras da aplicação
-- **Repositories**: Responsáveis pela comunicação com o banco de dados
-- **Models**: Representam as entidades do sistema
-
-## Princípios SOLID Aplicados
-
-✅ **Single Responsibility** - Cada classe tem uma única responsabilidade  
-✅ **Open/Closed** - Aberto para extensão, fechado para modificação  
-✅ **Liskov Substitution** - Substituição de interfaces sem quebrar funcionalidades  
-✅ **Interface Segregation** - Interfaces específicas e bem definidas  
-✅ **Dependency Inversion** - Dependência de abstrações, não de implementações
-
-## Instalação e Configuração
-
-```bash
-# Instalar dependências
-composer install
-
-# Instalar JWT Auth
-composer require tymon/jwt-auth
-
-# Gerar chave JWT
-php artisan jwt:secret
-
-# Configurar banco de dados no .env
-# DB_DATABASE=pizzaria
-
-# Executar migrations
-php artisan migrate
-
-# Popular banco com dados de teste
-php artisan db:seed
-
-# Iniciar servidor
-php artisan serve
-```
-
-## Funcionalidades Principais
-
-###  Autenticação
-- Registro de novos usuários
-- Login com JWT
-- Logout seguro
-- Verificação de perfil
-
-###  Gerenciamento de Usuários
-- CRUD completo de usuários
-- Diferenciação entre clientes e funcionários
-- Validação de dados e segurança
-
-###  Gerenciamento de Pizzas
-- Cadastro exclusivo para funcionários
-- Controle de ingredientes e preços
-- Diferentes tamanhos disponíveis
-- Sistema de ativação/desativação
-
-###  Sistema de Pedidos
-- Criação de pedidos por clientes
-- Adição de ingredientes extras (R$ 3,00 cada)
-- Cálculo automático do valor total
-- Controle de status do pedido
-- Histórico completo
-
-## Regras de Negócio
-
-- ✅ Pedidos devem conter no mínimo 1 pizza
-- ✅ Apenas funcionários podem gerenciar pizzas
-- ✅ Clientes visualizam apenas seus próprios pedidos
-- ✅ Valores são calculados automaticamente
-- ✅ Ingredientes extras alteram o preço final
-- ✅ Pedidos finalizados não podem ser alterados
-
-## Endpoints da API
-
-Documentação completa disponível nos arquivos:
-- `GUIA_COMPLETO.md` - Instalação e uso detalhado
-- `EXEMPLOS_PRATICOS.md` - Casos de uso reais
-- `COMANDOS_RAPIDOS.sh` - Setup rápido
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-five-iota-19.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
 
-## Contribuindo
 
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+## My Skills
 
-## Código de Conduta
+#### Main Stack:
 
-Para garantir que a comunidade seja acolhedora para todos, por favor revise e siga o [Código de Conduta](https://laravel.com/docs/contributions#code-of-conduct).
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-## Vulnerabilidades de Segurança
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Se você descobrir alguma vulnerabilidade de segurança neste projeto, por favor envie um e-mail para o mantenedor. Todas as vulnerabilidades serão tratadas prontamente.
 
-## Licença
+#### Workstation Tools:
 
-Este projeto é um software de código aberto licenciado sob a [licença MIT](https://opensource.org/licenses/MIT).
+![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
----
+&nbsp;
+&nbsp;
 
-**Desenvolvido usando Laravel e princípios SOLID**
+## Contacts:
+
+<div> 
+<a href = "mailto:andrebabybatera@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andré-lucas-silva-rocha-022480279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
