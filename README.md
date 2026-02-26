@@ -32,9 +32,9 @@
 
 ---
 
-## 🚀 My Skills
+##  My Skills
 
-#### 🔷 Main Stack
+####  Main Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -44,7 +44,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-#### 🛠️ Workstation Tools
+####  Workstation Tools
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
@@ -52,7 +52,7 @@
 
 ---
 
-## 📬 Contacts
+##  Contacts
 
 <div align="center">
   <a href="mailto:andrebabybatera@gmail.com">
