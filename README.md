@@ -14,14 +14,14 @@
 ---
 
 <p align="center">
-   Software engineer passionate about solving complex problems through technology.<br/>
+  💻 Software engineer passionate about solving complex problems through technology.<br/>
   I balance my career between <strong>technical</strong> and <strong>managerial</strong> skills — leading teams, coordinating projects,<br/>
   analyzing and continuously improving software, integrated with <strong>agile development</strong> fundamentals.
 </p>
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
@@ -30,9 +30,9 @@
 
 ---
 
-##  My Skills
+## 🛠 My Skills
 
-####  Main Stack
+#### 💡 Main Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +42,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-####  Workstation Tools
+#### 🖥 Workstation Tools
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -50,7 +50,7 @@
 
 ---
 
-##  Contacts
+## 📬 Contacts
 
 <div align="center">
   <a href="mailto:andrebabybatera@gmail.com">
